@@ -46,11 +46,12 @@ The Detailed Screenshots have been attached along with respective page load time
 ## Screenshots
 
 ### Functionality
+<img width="720" src="https://user-images.githubusercontent.com/61644460/171229873-2beb6ce1-0cd0-4cd3-8cc2-8e7e3ff35a07.png">
+<img width="720" src="https://user-images.githubusercontent.com/61644460/171230601-e8e4d5db-796f-4356-8204-8a9ba84d0ff3.png">
+<img width="720" src="https://user-images.githubusercontent.com/61644460/171230856-67cf25b1-4c8c-4da0-9eb3-43180ed4d077.png">
+<img width="720" alt="https://user-images.githubusercontent.com/61644460/171231220-a594c680-02ee-48a2-9ae0-be6a47d8d1d5.png">
 
-<img width="720" src="![image](https://user-images.githubusercontent.com/61644460/171229873-2beb6ce1-0cd0-4cd3-8cc2-8e7e3ff35a07.png)">
-<img width="720" src="![image](https://user-images.githubusercontent.com/61644460/171230601-e8e4d5db-796f-4356-8204-8a9ba84d0ff3.png)">
-<img width="720" src="![image](https://user-images.githubusercontent.com/61644460/171230856-67cf25b1-4c8c-4da0-9eb3-43180ed4d077.png)">
-<img width="720" alt="![image](https://user-images.githubusercontent.com/61644460/171231220-a594c680-02ee-48a2-9ae0-be6a47d8d1d5.png)">
+
 
 
 ### Page Load Times (Google Lighthouse used, in Incognito Browser Mode in Brave V1.28.106 based on Chromium V92
