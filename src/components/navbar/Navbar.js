@@ -26,7 +26,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
     },
     {
       title: "Github",
-      link: "https://github.com/harshkumar950461/Atlan-Frontend-Task",
+      link: "https://github.com/harshkumar950461/Atlan-Front-end-Task",
     },
   ];
 
